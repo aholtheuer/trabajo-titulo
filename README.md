@@ -39,5 +39,5 @@ Este trabajo se puede dividir en tres procesos. En primer lugar, se trabajó en 
 - Este repositorio fue creado una vez terminado el trabajo de título.
 - Los Datos fueron extraídos de la terminal Bloomberg disponible en el Laboratorio de Finanzas de la Universidad Católica; por temas legales no pueden ser compartidos. 
 - La red neuronal fue programada en *Octave* debido a su buen manejo con vectores y matrices. Se eligió *Octave* sobre *Matlab* debido a que este último no es un software libre.
-- Para mayor información sobre el proyecto y sus resultados, se invita a leer el [informe.]()  
+- Para mayor información sobre el proyecto y sus resultados, se invita a leer el [informe.](Informe_Final.pdf)  
  
