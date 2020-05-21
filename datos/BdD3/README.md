@@ -6,4 +6,4 @@ Se utilizó el lenguaje de programación R, que se enfoca en el análisis estad�
 
 ## Consideraciones
 
-El documento `data_imp.csv` no pudo ser subido por temas legales. 
+El documento `data_imp.csv`, en donde se encuentra la base de datos imputada, no pudo ser subido por temas legales.
