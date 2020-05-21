@@ -18,10 +18,11 @@ El propósito en esta investigación fue entender el funcionamiento de una *mult
 
 ### Technologies
 * Octave
+* Gurobi
+* Python
 * R
 * VBA
  
-
 ## Descripción del Proyecto
 
 Este trabajo se puede dividir en tres procesos. En primer lugar, se trabajó en la recolección de datos, que incluye la extracción de los parámetros claves del software financiero Bloomberg y el manejo de los datos faltantes de la matriz obtenida. Luego, se construyó el modelo de selección de acciones ocupando métodos de *Machine Learning*. Específicamente se generó una *multilayer perceptron neural network*, la cual fue entrenada, validada y testeada para clasificar las empresas sobresalientes de las no sobresalientes. Por último, se realizaron evaluaciones financieras, midiendo la rentabilidad y el alfa del portafolio versus el S&P 500.
