@@ -16,7 +16,7 @@ El propósito en esta investigación fue entender el funcionamiento de una *mult
 * *Machine Learning*
 * Modelamiento Predictivo
 
-### Technologies
+### Tecnologías
 * Octave
 * Gurobi
 * Python
